@@ -54,7 +54,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar_thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#24262D",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#090E13",
@@ -388,7 +388,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar_thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#24262D",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#14171d",
@@ -722,7 +722,7 @@
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
-        "scrollbar_thumb.background": "#e2e1df",
+        "scrollbar.thumb.background": "#e2e1df",
         "scrollbar.thumb.hover_background": "#7B7B77",
         "scrollbar.thumb.border": "#e2e1df",
         "scrollbar.track.background": "#f2f1ef",
