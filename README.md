@@ -77,7 +77,7 @@ Check out these matching themes for other applications:
 <div>
 
 - [Kansō for Neovim](https://github.com/webhooked/kanso.nvim)
-- [Kansō for VS Code](https://marketplace.visualstudio.com/items?itemName=webhooked.kanso-vscode)
+- [Kansō for VS Code](https://marketplace.visualstudio.com/items?itemName=webhooked.kanso-theme)
 - [Alacritty](https://github.com/rebelot/kanagawa.nvim/tree/master/extras/alacritty)
 - [Kitty](https://github.com/rebelot/kanagawa.nvim/tree/master/extras/kitty)
 - [Wezterm](https://github.com/rebelot/kanagawa.nvim/tree/master/extras/wezterm)
