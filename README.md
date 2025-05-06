@@ -36,7 +36,7 @@
 1. Open Zed
 2. Open the command palette (Cmd+Shift+P or Ctrl+Shift+P)
 3. Type "Extensions: Install Extension"
-4. Search for "Kansō Theme"
+4. Search for "Kanso Theme"
 5. Click "Install"
 
 ## 🎨 Themes
