@@ -14,6 +14,8 @@
         "border.transparent": "#090E1300",
         "border.disabled": "#5C606600",
 
+        "warning.border": "#24262D00",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#090E13",
         "background": "#090E13",
@@ -124,7 +126,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -348,6 +350,8 @@
         "border.transparent": "#14171d00",
         "border.disabled": "#5C606600",
 
+        "warning.border": "#24262D00",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#14171d",
         "background": "#14171d",
@@ -458,7 +462,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -683,6 +687,8 @@
         "border.transparent": "#f2f1ef00",
         "border.disabled": "#9F9F9900",
 
+        "warning.border": "#e2e1df00",
+        "warning.background": "#f2f1ef",
         "elevated_surface.background": "#f2f1ef",
         "surface.background": "#f2f1ef",
         "background": "#f2f1ef",
@@ -793,7 +799,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb"
+            "selection": "#dddddb80"
           }
         ],
 
@@ -1018,6 +1024,8 @@
         "border.transparent": "#24262D00",
         "border.disabled": "#24262D80",
 
+        "warning.border": "#24262D",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#090E13",
         "background": "#090E13",
@@ -1128,7 +1136,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -1352,6 +1360,8 @@
         "border.transparent": "#24262D00",
         "border.disabled": "#24262D80",
 
+        "warning.border": "#24262D",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#14171d",
         "background": "#14171d",
@@ -1462,7 +1472,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -1686,6 +1696,8 @@
         "border.transparent": "#dddddb00",
         "border.disabled": "#dddddb80",
 
+        "warning.border": "#dddddb",
+        "warning.background": "#f2f1ef",
         "elevated_surface.background": "#f2f1ef",
         "surface.background": "#f2f1ef",
         "background": "#f2f1ef",
@@ -1796,7 +1808,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb"
+            "selection": "#dddddb80"
           }
         ],
 
@@ -2020,6 +2032,8 @@
         "border.transparent": "#090E1300",
         "border.disabled": "#5C606600",
 
+        "warning.border": "#24262D00",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#090E13",
         "background": "#090E13",
@@ -2130,7 +2144,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -2354,6 +2368,8 @@
         "border.transparent": "#14171d00",
         "border.disabled": "#5C606600",
 
+        "warning.border": "#24262D00",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#14171d",
         "background": "#14171d",
@@ -2464,7 +2480,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -2688,6 +2704,8 @@
         "border.transparent": "#f2f1ef00",
         "border.disabled": "#9F9F9900",
 
+        "warning.border": "#e2e1df00",
+        "warning.background": "#f2f1ef",
         "elevated_surface.background": "#f2f1ef",
         "surface.background": "#f2f1ef",
         "background": "#f2f1ef",
@@ -2798,7 +2816,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb"
+            "selection": "#dddddb80"
           }
         ],
 
@@ -3022,6 +3040,8 @@
         "border.transparent": "#24262D00",
         "border.disabled": "#24262D80",
 
+        "warning.border": "#24262D",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#090E13",
         "background": "#090E13",
@@ -3132,7 +3152,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -3356,6 +3376,8 @@
         "border.transparent": "#24262D00",
         "border.disabled": "#24262D80",
 
+        "warning.border": "#24262D",
+        "warning.background": "#14171d",
         "elevated_surface.background": "#14171d",
         "surface.background": "#14171d",
         "background": "#14171d",
@@ -3466,7 +3488,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D"
+            "selection": "#24262D80"
           }
         ],
 
@@ -3690,6 +3712,8 @@
         "border.transparent": "#dddddb00",
         "border.disabled": "#dddddb80",
 
+        "warning.border": "#dddddb",
+        "warning.background": "#f2f1ef",
         "elevated_surface.background": "#f2f1ef",
         "surface.background": "#f2f1ef",
         "background": "#f2f1ef",
@@ -3800,7 +3824,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb"
+            "selection": "#dddddb80"
           }
         ],
         "syntax": {
