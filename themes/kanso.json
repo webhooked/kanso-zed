@@ -49,7 +49,7 @@
         "tab.inactive_background": "#090E13",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#090E1300",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -134,7 +134,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -393,7 +393,7 @@
         "tab.inactive_background": "#14171d",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#14171d00",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -478,7 +478,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -738,7 +738,7 @@
         "tab.inactive_background": "#f2f1ef",
         "tab.active_background": "#e2e1df",
 
-        "search.match_background": "#dddddb",
+        "search.match_background": "#9fb5c9",
         "panel.background": "#f2f1ef00",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
@@ -823,7 +823,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb80"
+            "selection": "#C6C6C5"
           }
         ],
 
@@ -1083,7 +1083,7 @@
         "tab.inactive_background": "#090E13",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#090E1300",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -1168,7 +1168,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -1427,7 +1427,7 @@
         "tab.inactive_background": "#14171d",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#14171d00",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -1512,7 +1512,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -1771,7 +1771,7 @@
         "tab.inactive_background": "#f2f1ef",
         "tab.active_background": "#e2e1df",
 
-        "search.match_background": "#dddddb",
+        "search.match_background": "#9fb5c9",
         "panel.background": "#f2f1ef00",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
@@ -1856,7 +1856,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb80"
+            "selection": "#C6C6C5"
           }
         ],
 
@@ -2115,7 +2115,7 @@
         "tab.inactive_background": "#090E13",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#090E1300",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -2200,7 +2200,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -2459,7 +2459,7 @@
         "tab.inactive_background": "#14171d",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#14171d00",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -2544,7 +2544,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -2803,7 +2803,7 @@
         "tab.inactive_background": "#f2f1ef",
         "tab.active_background": "#e2e1df",
 
-        "search.match_background": "#dddddb",
+        "search.match_background": "#9fb5c9",
         "panel.background": "#f2f1ef00",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
@@ -2888,7 +2888,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb80"
+            "selection": "#C6C6C5"
           }
         ],
 
@@ -3147,7 +3147,7 @@
         "tab.inactive_background": "#090E13",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#090E1300",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -3232,7 +3232,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -3491,7 +3491,7 @@
         "tab.inactive_background": "#14171d",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#14171d00",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -3576,7 +3576,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -3835,7 +3835,7 @@
         "tab.inactive_background": "#f2f1ef",
         "tab.active_background": "#e2e1df",
 
-        "search.match_background": "#dddddb",
+        "search.match_background": "#9fb5c9",
         "panel.background": "#f2f1ef00",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
@@ -3920,7 +3920,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb80"
+            "selection": "#C6C6C5"
           }
         ],
         "syntax": {
@@ -4179,7 +4179,7 @@
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#24262D",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#00000000",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -4264,7 +4264,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#090E13",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -4524,7 +4524,7 @@
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#24262De0",
 
-        "search.match_background": "#393B42",
+        "search.match_background": "#536269",
         "panel.background": "#00000000",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
@@ -4609,7 +4609,7 @@
           {
             "cursor": "#c5c9c7",
             "background": "#14171d",
-            "selection": "#24262D80"
+            "selection": "#393B42"
           }
         ],
 
@@ -4869,7 +4869,7 @@
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#e2e1df",
 
-        "search.match_background": "#dddddb",
+        "search.match_background": "#9fb5c9",
         "panel.background": "#00000000",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
@@ -4954,7 +4954,7 @@
           {
             "cursor": "#24262D",
             "background": "#f2f1ef",
-            "selection": "#dddddb80"
+            "selection": "#C6C6C5"
           }
         ],
 
