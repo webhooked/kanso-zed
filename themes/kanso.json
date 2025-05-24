@@ -54,7 +54,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#090E13",
@@ -398,7 +398,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#14171d",
@@ -743,7 +743,7 @@
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
-        "scrollbar.thumb.background": "#e2e1df",
+        "scrollbar.thumb.background": "#6D6D6934",
         "scrollbar.thumb.hover_background": "#6D6D69",
         "scrollbar.thumb.border": "#e2e1df",
         "scrollbar.track.background": "#f2f1ef",
@@ -1088,7 +1088,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#090E13",
@@ -1432,7 +1432,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#14171d",
@@ -1776,7 +1776,7 @@
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
-        "scrollbar.thumb.background": "#e2e1df",
+        "scrollbar.thumb.background": "#6D6D6934",
         "scrollbar.thumb.hover_background": "#6D6D69",
         "scrollbar.thumb.border": "#e2e1df",
         "scrollbar.track.background": "#f2f1ef",
@@ -2120,7 +2120,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#090E13",
@@ -2464,7 +2464,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#14171d",
@@ -2808,7 +2808,7 @@
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
-        "scrollbar.thumb.background": "#e2e1df",
+        "scrollbar.thumb.background": "#6D6D6934",
         "scrollbar.thumb.hover_background": "#6D6D69",
         "scrollbar.thumb.border": "#e2e1df",
         "scrollbar.track.background": "#f2f1ef",
@@ -3152,7 +3152,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#090E13",
@@ -3496,7 +3496,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#14171d",
@@ -3840,7 +3840,7 @@
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
-        "scrollbar.thumb.background": "#e2e1df",
+        "scrollbar.thumb.background": "#6D6D6934",
         "scrollbar.thumb.hover_background": "#6D6D69",
         "scrollbar.thumb.border": "#e2e1df",
         "scrollbar.track.background": "#f2f1ef",
@@ -4184,7 +4184,7 @@
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
-        "scrollbar.thumb.background": "#24262D",
+        "scrollbar.thumb.background": "#5C606634",
         "scrollbar.thumb.hover_background": "#5C6066",
         "scrollbar.thumb.border": "#24262D",
         "scrollbar.track.background": "#090E13e0",
@@ -4874,7 +4874,7 @@
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
-        "scrollbar.thumb.background": "#e2e1df",
+        "scrollbar.thumb.background": "#6D6D6934",
         "scrollbar.thumb.hover_background": "#6D6D69",
         "scrollbar.thumb.border": "#e2e1df",
         "scrollbar.track.background": "#f2f1ef",
