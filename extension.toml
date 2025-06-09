@@ -1,7 +1,7 @@
 id = "kanso"
 name = "Kanso Theme"
 schema_version = 1
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Webhooked <hello@webhooked.dev>"]
 description = "A dark theme that invites focus, not attention. An elegant evolution of the original Kanagawa theme."
 repository = "https://github.com/webhooked/kanso-zed"
