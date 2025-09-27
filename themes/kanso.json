@@ -50,7 +50,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#090E1300",
+        "panel.background": "#090E13",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -394,7 +394,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#14171d00",
+        "panel.background": "#14171d",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -739,7 +739,7 @@
         "tab.active_background": "#43464E",
 
         "search.match_background": "#536269",
-        "panel.background": "#2f303600",
+        "panel.background": "#2f3036",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -1084,7 +1084,7 @@
         "tab.active_background": "#e2e1df",
 
         "search.match_background": "#9fb5c9",
-        "panel.background": "#f2f1ef00",
+        "panel.background": "#f2f1ef",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
@@ -1429,7 +1429,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#090E1300",
+        "panel.background": "#090E13",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -1773,7 +1773,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#14171d00",
+        "panel.background": "#14171d",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -2117,7 +2117,7 @@
         "tab.active_background": "#43464E",
 
         "search.match_background": "#536269",
-        "panel.background": "#2f303600",
+        "panel.background": "#2f3036",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -2461,7 +2461,7 @@
         "tab.active_background": "#e2e1df",
 
         "search.match_background": "#9fb5c9",
-        "panel.background": "#f2f1ef00",
+        "panel.background": "#f2f1ef",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
@@ -2805,7 +2805,7 @@
         "tab.active_background": "#43464E",
 
         "search.match_background": "#536269",
-        "panel.background": "#2f303600",
+        "panel.background": "#2f3036",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -3149,7 +3149,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#090E1300",
+        "panel.background": "#090E13",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -3493,7 +3493,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#14171d00",
+        "panel.background": "#14171d",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -3837,7 +3837,7 @@
         "tab.active_background": "#43464E",
 
         "search.match_background": "#536269",
-        "panel.background": "#2f303600",
+        "panel.background": "#2f3036",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -4181,7 +4181,7 @@
         "tab.active_background": "#e2e1df",
 
         "search.match_background": "#9fb5c9",
-        "panel.background": "#f2f1ef00",
+        "panel.background": "#f2f1ef",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
@@ -4525,7 +4525,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#090E1300",
+        "panel.background": "#090E13",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -4869,7 +4869,7 @@
         "tab.active_background": "#22262D",
 
         "search.match_background": "#536269",
-        "panel.background": "#14171d00",
+        "panel.background": "#14171d",
         "panel.focused_border": "#8ba4b0",
         "pane.focused_border": "#949fb5",
 
@@ -5213,7 +5213,7 @@
         "tab.active_background": "#e2e1df",
 
         "search.match_background": "#9fb5c9",
-        "panel.background": "#f2f1ef00",
+        "panel.background": "#f2f1ef",
         "panel.focused_border": "#dddddb",
         "pane.focused_border": "#dddddb",
 
